@@ -216,7 +216,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_african_building_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_BUILDING
 			}
 		}
@@ -226,7 +226,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_mena_building_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_BUILDING
 			}
 		}
@@ -236,7 +236,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_western_building_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_BUILDING
 			}
 		}
@@ -246,7 +246,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_indian_building_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_BUILDING
 			}
 		}
@@ -256,7 +256,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_mediterranean_building_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_BUILDING
 			}
 		}
@@ -266,7 +266,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_steppe_building_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_BUILDING
 			}
 		}
@@ -278,7 +278,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_african_clothing_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_CLOTHING
 			}
 		}
@@ -288,7 +288,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_mena_clothing_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_CLOTHING
 			}
 		}
@@ -298,7 +298,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_northern_clothing_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_CLOTHING
 			}
 		}
@@ -308,7 +308,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_western_clothing_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_CLOTHING
 			}
 		}
@@ -318,7 +318,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_indian_clothing_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_CLOTHING
 			}
 		}
@@ -328,7 +328,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_byzantine_clothing_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_CLOTHING
 			}
 		}
@@ -338,7 +338,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_mongol_clothing_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_CLOTHING
 			}
 		}
@@ -350,7 +350,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_sub_saharan_unit_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_UNIT
 			}
 		}
@@ -360,7 +360,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_mena_unit_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_UNIT
 			}
 		}
@@ -370,7 +370,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_northern_unit_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_UNIT
 			}
 		}
@@ -380,7 +380,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_western_unit_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_UNIT
 			}
 		}
@@ -390,7 +390,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_indian_unit_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_UNIT
 			}
 		}
@@ -400,7 +400,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_eastern_unit_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_UNIT
 			}
 		}
@@ -410,7 +410,7 @@ culture_acceptance_baseline = {
 				scope:culture = { sow_has_mongol_unit_gfx = yes }
 			}
 			add = {
-				value = 5
+				value = same_aesthetics_cultural_acceptance
 				desc = ACCEPTANCE_BASELINE_UNIT
 			}
 		}
