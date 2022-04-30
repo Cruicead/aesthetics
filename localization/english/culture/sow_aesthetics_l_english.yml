@@ -1,0 +1,9 @@
+﻿l_english:
+ #Architecture
+ ACCEPTANCE_BASELINE_BUILDING:0 "[cultures|E] share similar Architecture"
+ 
+ #Fashion
+ ACCEPTANCE_BASELINE_CLOTHING:0 "[cultures|E] share similar Fashion"
+ 
+ #Military equipment
+ ACCEPTANCE_BASELINE_UNIT:0 "[cultures|E] share similar Military Equipment"
