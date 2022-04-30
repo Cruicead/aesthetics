@@ -1,0 +1,102 @@
+﻿###Architecture
+sow_has_african_building_gfx = {
+	has_building_gfx = african_building_gfx
+}
+
+sow_has_mena_building_gfx = {
+	OR = {
+		has_building_gfx = mena_building_gfx
+		has_building_gfx = arabic_group_building_gfx
+		has_building_gfx = berber_group_building_gfx
+	}
+	NOT = { has_building_gfx = african_building_gfx }
+}
+
+sow_has_western_building_gfx = {
+	OR = {
+		has_building_gfx = western_building_gfx
+		has_building_gfx = norse_building_gfx
+	}
+}
+
+sow_has_indian_building_gfx = {
+	has_building_gfx = indian_building_gfx
+}
+
+sow_has_mediterranean_building_gfx = {
+	has_building_gfx = mediterranean_building_gfx
+}
+
+sow_has_steppe_building_gfx = {
+	has_building_gfx = steppe_building_gfx
+}
+
+###Fashion
+sow_has_african_clothing_gfx = {
+	has_clothing_gfx = african_clothing_gfx
+}
+
+sow_has_mena_clothing_gfx = {
+	OR = {
+		has_clothing_gfx = mena_clothing_gfx
+		has_clothing_gfx = dde_abbasid_clothing_gfx
+	} 
+}
+
+sow_has_northern_clothing_gfx = {
+	OR = {
+		has_clothing_gfx = northern_clothing_gfx
+		has_clothing_gfx = fp1_norse_clothing_gfx
+	}
+}
+
+sow_has_western_clothing_gfx = {
+	OR = {
+		has_clothing_gfx = western_clothing_gfx
+		has_clothing_gfx = dde_hre_clothing_gfx
+	}
+}
+
+sow_has_indian_clothing_gfx = {
+	has_clothing_gfx = indian_clothing_gfx
+}
+
+sow_has_byzantine_clothing_gfx = {
+	has_clothing_gfx = byzantine_clothing_gfx
+}
+
+sow_has_mongol_clothing_gfx = {
+	has_clothing_gfx = mongol_clothing_gfx
+}
+
+###Military Equipment
+sow_has_sub_saharan_unit_gfx = {
+	has_unit_gfx = sub_sahran_unit_gfx
+}
+
+sow_has_mena_unit_gfx = {
+	has_unit_gfx = mena_unit_gfx
+}
+
+sow_has_northern_unit_gfx = {
+	OR = {
+		has_unit_gfx = northern_unit_gfx
+		has_unit_gfx = norse_unit_gfx
+	}
+}
+
+sow_has_western_unit_gfx = {
+	has_unit_gfx = western_unit_gfx
+}
+
+sow_has_indian_unit_gfx = {
+	has_unit_gfx = indian_unit_gfx
+}
+
+sow_has_eastern_unit_gfx = {
+	has_unit_gfx = eastern_unit_gfx
+}
+
+sow_has_mongol_unit_gfx = {
+	has_unit_gfx = mongol_unit_gfx
+}
