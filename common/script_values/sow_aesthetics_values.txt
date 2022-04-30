@@ -1,0 +1,1 @@
+﻿same_aesthetics_cultural_acceptance = 5
