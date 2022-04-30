@@ -1,0 +1,2 @@
+﻿l_english:
+ CULTURE_AESTHETICS_TOOLTIP:0 "#T [Culture.GetNameNoTooltip] Aesthetics#!\n#P +5#! [cultural_acceptance_baseline|E] with Cultures sharing similar Architecture, Fashion, or Military Equipment\n\nNaming Practices: [Culture.GetNamingListName|V]\nArchitecture: [Culture.GetBuildingGfxName|V]\nFashion: [Culture.GetClothingGfxName|V]\nCoat of Arms: [Culture.GetCoAGfxName|V]\nMilitary Equipment: [Culture.GetUnitGfxName|V]"
